@@ -3,3 +3,5 @@
 
                 Assignment 1 for the course "Computer Networks CS 3001".
 Assignment document uploaded in the files above.
+
+The folder `src` contains the files for both `server` and the `client`.
