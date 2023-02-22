@@ -9,11 +9,11 @@ This assignment was created using the java and for the GUI, a java GUI toolkit c
 
 <hr>
 Interface for `server.java`:<br><br>
-     ![server](https://user-images.githubusercontent.com/59371949/220654960-de494654-10d7-487b-bef0-1d0d27a0a80e.png)
+![server](https://user-images.githubusercontent.com/59371949/220654960-de494654-10d7-487b-bef0-1d0d27a0a80e.png)
 
 
 The textfield on the top left constains the ip address and the port number in the format `ipaddress:portnumber`. The port number is extracted from the text field by the following `code`:<br><br>
-      ![image](https://user-images.githubusercontent.com/59371949/220646205-5b33109f-0555-4c72-8765-216193dc11b5.png)
+![image](https://user-images.githubusercontent.com/59371949/220646205-5b33109f-0555-4c72-8765-216193dc11b5.png)
 
 <hr>
 Interface for `server.java`:<br><br>
