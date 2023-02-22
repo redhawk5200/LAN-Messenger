@@ -9,7 +9,7 @@ This assignment was created using the java and for the GUI, a java GUI toolkit c
 
 <hr>
 Interface for `server.java`:<br><br>
-<img src="server.png" alt="server screen>
+      <img src="server.png" alt="server screen">
 
 
 The textfield on the top left constains the ip address and the port number in the format `ipaddress:portnumber`. The port number is extracted from the text field by the following `code`:<br><br>
@@ -17,7 +17,7 @@ The textfield on the top left constains the ip address and the port number in th
 
 <hr>
 Interface for `server.java`:<br><br>
-      ![image](https://user-images.githubusercontent.com/59371949/220646846-1983f016-109f-4a0e-aa5e-cc4fdea53e77.png)
+      <img src="client.png" alt="client screen">
       
 The textfield on the top right contains the port number, where the port number is extracted by the following `code`:<br><br>
       ![clietncode](https://user-images.githubusercontent.com/59371949/220655629-0e438fb1-c0bf-49e2-8c5b-b4da54550e02.png)
