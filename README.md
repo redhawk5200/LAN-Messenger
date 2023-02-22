@@ -20,7 +20,8 @@ Interface for `server.java`:<br><br>
       ![image](https://user-images.githubusercontent.com/59371949/220646846-1983f016-109f-4a0e-aa5e-cc4fdea53e77.png)
       
 The textfield on the top right contains the port number, where the port number is extracted by the following `code`:<br><br>
-      ![client](https://user-images.githubusercontent.com/59371949/220655004-11afc91b-7abd-4f17-adf4-000d426386d6.png)
+      ![clietncode](https://user-images.githubusercontent.com/59371949/220655629-0e438fb1-c0bf-49e2-8c5b-b4da54550e02.png)
+
 
 
 
